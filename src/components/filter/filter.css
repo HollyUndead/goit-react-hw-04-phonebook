@@ -1,0 +1,8 @@
+.create-contact{
+    width: 100%;
+}
+
+.filter-wrap{
+    display: flex;
+    flex-direction: column;
+}
