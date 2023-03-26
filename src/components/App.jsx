@@ -1,4 +1,5 @@
 /* eslint-disable array-callback-return */
+/* eslint-disable react-hooks/exhaustive-deps */
 import { createContext, useEffect, useState, useRef } from 'react';
 import { nanoid } from 'nanoid';
 
